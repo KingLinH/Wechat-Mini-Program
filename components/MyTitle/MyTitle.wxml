@@ -1,0 +1,18 @@
+<view class="title">
+	
+	<navigator class="logo">
+		<image class="img" src="../../icons/BILIBILI_LOGO.png"></image>
+	</navigator>
+	
+	<view class="search_icon">
+		<image src="../../icons/sousuo.png"></image>
+	</view>
+	
+	<view class="user_icon">
+		<image src="../../icons/User.png"></image>
+	</view>
+	
+	<view class="down_app">
+		下载App
+	</view>
+</view>
